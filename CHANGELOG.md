@@ -2,6 +2,15 @@
 
 All notable changes to `crud` will be documented in this file.
 
+## 0.9.4 - 2026-08-08
+
+### What's Changed
+
+* Bump dependabot/fetch-metadata from 2.4.0 to 2.5.0 by @dependabot[bot] in https://github.com/laraflow/crud/pull/16
+* Expand illuminate/contracts version support to 12.0 by @hafijul233 in https://github.com/laraflow/crud/pull/19
+
+**Full Changelog**: https://github.com/laraflow/crud/compare/0.9.3...0.9.4
+
 ## Model Filter Scope Typo Fixed - 2025-05-25
 
 ### What's Changed
